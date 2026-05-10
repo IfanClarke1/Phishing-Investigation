@@ -38,6 +38,7 @@ The URL (http://www.allegro.126325g2.sbs/) demonstrates characteristics associat
 The URL was analysed using VirusTotal to determine reputation among security vendors. This analysis found 13 security vendors had deemed it malicious. Screenshots of the VirusTotal display are added to the repo.
 
 **Conclusion**
+
 The investigation determined that the email and the associated link were consistent with a phishing campaign. This was determined from analysis of the embedded URL.
 
 Based on the findings the domain should be treated as malicious and blocked. Users who clicked the link will need to change their credentials and add multi-factor authentication. I would also recommend users be given training on how to spot phishing attacks.
