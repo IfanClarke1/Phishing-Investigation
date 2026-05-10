@@ -29,7 +29,7 @@ The investigation followed a Tier 1 SOC workflow
 
 The initial email was designed to impersonate an email from the Allegro platform. It was attempting to gain user trust and encourage them to click a malicious link.
 
-The URL (http://www.allegro.126325g2.sbs/) demonstrates characteristics associated with phishing infrastructure:
+The URL (*allegro.126325g2.sbs*) demonstrates characteristics associated with phishing infrastructure:
 
 1. It contains the term "allegro", in an attempt to imitate the platform
 2. The use of a random selection of characters ("126325g2") appears to be automatically generated
